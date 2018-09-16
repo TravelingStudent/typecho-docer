@@ -1,0 +1,18 @@
+/*Optmize stylesheet file*/
+.browsehappy{
+	/*Display for old browsers*/
+	display:block;
+	position:fixed;
+	font-size:16px;
+	line-height:24px;
+	padding:10px;
+	background:red;
+	color:white;
+	left:16px;
+	bottom:16px;
+}
+.browsehappy a{
+	text-decoration:none;
+	color:aqua;
+	font-weight:500;
+}
